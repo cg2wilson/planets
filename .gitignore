@@ -1,0 +1,5 @@
+##code that gets here: git .gitignore
+##this gives a list of FILES or FOLDERS that we want git to ignore
+
+*.dat
+results/
