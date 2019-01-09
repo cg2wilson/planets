@@ -4,3 +4,4 @@
 *.dat
 results/
 !a.dat
+results/plots
